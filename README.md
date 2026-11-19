@@ -32,7 +32,9 @@
 * **Frontend:** HTML, CSS, JavaScript
 * **Native Runtime:** Capacitor (Android)
 
----
+### Admin Code
+
+* **0451**
 
 ### Author
 
